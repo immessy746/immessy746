@@ -28,7 +28,7 @@ Hi, I'm Messy a self-taught back-end & front-end developer. I'm a 4th year stude
 ## Why am I here ?
 
 I'll provide you codes which will be helpful in traking IP and some cool stuffs related to Hacking and I'll try to help people around me in their codes and make their programs better.
-<img align="right" alt="Messy_is_coding" src="https://github.com/immessy746/immessy746/blob/main/messygit.gif" width="500" height="320" />
+!--<img align="right" alt="Messy_is_coding" src="https://github.com/immessy746/immessy746/blob/main/messygit.gif" width="500" height="320" />--!
 
 <br/>
 
