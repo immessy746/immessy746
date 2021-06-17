@@ -2,3 +2,6 @@
 <a href="https://dsc.gg/messy's-hub">
   <img align="left" alt="Messy's Discord" width="22px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" />
 </a>
+<a href="https://twitter.com/immessy746">
+  <img align="left" alt="Messy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
