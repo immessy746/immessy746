@@ -1,3 +1,4 @@
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Messy
 <a href="https://dsc.gg/messy's-hub">
   <img align="left" alt="Messy's Discord" width="22px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" />
@@ -10,6 +11,5 @@
   <img align="left" alt="Messy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<a href="https://github.com/immessy746">
-<img align="left" alt="Messyy's GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-</a>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
