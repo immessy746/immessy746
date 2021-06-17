@@ -11,5 +11,5 @@
 </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://github.com/immessy746">
-<img align="left" alt="Messyy's GitHub" width="26px" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png"/>
+<img align="left" alt="Messyy's GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 </a>
