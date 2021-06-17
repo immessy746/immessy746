@@ -9,5 +9,7 @@
 <a href="https://open.spotify.com/user/5cf5lenzpgsdyh925q4toej7f">
   <img align="left" alt="Messy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+## Downloads
+#### GitHub (All Releases)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()  
 
