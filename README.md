@@ -9,4 +9,4 @@
 <a href="https://open.spotify.com/user/5cf5lenzpgsdyh925q4toej7f">
   <img align="left" alt="Messy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-![Maintaner](https://img.shields.io/badge/Developer-blue)
+![Maintaner](https://img.shields.io/badge/Developer-TRUE-blue)
