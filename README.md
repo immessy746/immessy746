@@ -22,4 +22,12 @@
 ## About Me
 
 Hi, I'm Messy a self-taught back-end & front-end developer. I'm a 4th year student of IIT and got a chance to be an intern at Google India, I've cracked OSCP exam at the age of 19. I like to create softwares instead of websites and passionated in learning new languages. If you want to contact me then DM me on [discord](https://dsc.gg/messy's-hub). My inspirations are Kevin David Mitnick & Gary McKinnon.
+
 <br/>
+
+## Why am I here ?
+
+I'll provide you codes which will be helpful in traking IP and some cool stuffs related to Hacking and I'll try to help people around me in their codes and make their programs better.
+
+<br/>
+
