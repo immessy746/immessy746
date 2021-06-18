@@ -54,6 +54,7 @@ I'll provide you codes which will be helpful in traking IP and some cool stuffs 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
 <a href="https://eggerapps.at/pgcommander/" target="_blank"> <img align="left" alt="PGCommander" width="26px" src="https://camo.githubusercontent.com/1877deecf0e307dbbccdc67d6cfa8cc1b2a046e4834b427d5c9fe71a373121fe/68747470733a2f2f77696b692e706f737467726573716c2e6f72672f696d616765732f612f61342f506f737467726553514c5f6c6f676f2e33636f6c6f72732e737667"/> </a>
-<a href="https://rubberduckdebugging.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTlfUfD0EMaQkVG5p09hbXmOCB7g-_z7KQglxJkRRSHm3cFOQN7e08lnBh0CMV9KmO6Yc&usqp=CAU"/> </a>
+<a href="https://rubberduckdebugging.com/" target="_blank"> <img align="left" alt="RubberDuck" width="26px" src="https://raw.githubusercontent.com/RubberDuckDebugging/rubberduckdebugging.github.io/master/images/rubberducky.png"/> </a>
+<a href="https://developer.android.com/" target="_blank"> <img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg"/> </a>
 
 <br/>
