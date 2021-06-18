@@ -18,6 +18,7 @@
 </p>
 
 <br/>
+<br/>
 
 ## About Me
 
@@ -64,3 +65,14 @@ I'll provide you codes which will be helpful in traking IP and some cool stuffs 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=5cf5lenzpgsdyh925q4toej7f&cover_image=true&theme=novatorem)](https://open.spotify.com/user/5cf5lenzpgsdyh925q4toej7f)
 
 <br/>
+<br/>
+
+## My Activity:
+
+```text
+REACT         802 hrs 17 mins   ████████████████████████░    
+ANGULAR       798 hr 1 min      ▓██████████████████░░░░░░    
+Java          770 hr 20 min     ▓███████████████░░░░░░░░░    
+Python        690 hr 40 min     ▓████████████░░░░░░░░░░░░    
+BrainFuck     690 hr            ▓██████████░░░░░░░░░░░░░░    
+```
