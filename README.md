@@ -60,4 +60,4 @@ I'll provide you codes which will be helpful in traking IP and some cool stuffs 
 <br/>
 
 ## Now Playing 🎧
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=5cf5lenzpgsdyh925q4toej7f&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=5cf5lenzpgsdyh925q4toej7f&cover_image=true&theme=compact)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/5cf5lenzpgsdyh925q4toej7f)
