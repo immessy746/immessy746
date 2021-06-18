@@ -55,3 +55,15 @@ I'll provide you codes which will be helpful in traking IP and some cool stuffs 
 <p><a href="https://golang.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"/>・ Golang </a></p>
 <p><a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>・ Javascript </a></p>
 <p><a href="https://reactjs.org/" target="_blank"> <img align="left" alt="REACT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>・ REACT </a></p>
+
+<br/>
+
+## Softwares I Use:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+
+<br/>
