@@ -63,9 +63,7 @@ I'll provide you codes which will be helpful in traking IP and some cool stuffs 
 
 ## Now Playing 🎧
 [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=5cf5lenzpgsdyh925q4toej7f&cover_image=true&theme=novatorem)](https://open.spotify.com/user/5cf5lenzpgsdyh925q4toej7f)
-
 <br/>
-
 ## My Activity:
 
 ```text
