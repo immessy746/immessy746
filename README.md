@@ -41,3 +41,4 @@ I'll provide you codes which will be helpful in traking IP and some cool stuffs 
 <p><a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>・ C</a></P
 <p><a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>・ Git </a></p>
 <p><a href="https://golang.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"/>・ Golang </a></p>
+<p><a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>・ Javascript </a></p>
