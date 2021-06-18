@@ -31,18 +31,6 @@ I'll provide you codes which will be helpful in traking IP and some cool stuffs 
 
 <br/>
 
-## Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
-
-
-<br/>
-
 ## Languages And Frameworks:
 
 <img align="right" alt="Messy_is_coding" src="https://github.com/immessy746/immessy746/blob/main/messygit.gif" width="500" height="320" />
@@ -65,6 +53,6 @@ I'll provide you codes which will be helpful in traking IP and some cool stuffs 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-<a href="https://eggerapps.at/pgcommander/" target="_blank"> <img align="left" alt="PGCommander" width="26px" src="https://eggerapps.at/pgcommander/img/pg-commander-icon.pnge"/> </a>
+<a href="https://eggerapps.at/pgcommander/" target="_blank"> <img align="left" alt="PGCommander" width="26px" src="https://camo.githubusercontent.com/1877deecf0e307dbbccdc67d6cfa8cc1b2a046e4834b427d5c9fe71a373121fe/68747470733a2f2f77696b692e706f737467726573716c2e6f72672f696d616765732f612f61342f506f737467726553514c5f6c6f676f2e33636f6c6f72732e737667"/> </a>
 
 <br/>
